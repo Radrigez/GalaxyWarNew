@@ -11,3 +11,5 @@ To complete it, you will have to actively destroy enemy spaceships and hold out 
 
 Controls in the game: A, D
 Shooting: Space
+
+Game: https://radrigezz.itch.io/galaxy-war
